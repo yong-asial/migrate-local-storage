@@ -26,8 +26,8 @@
   <preference name="PageLength" value="0"/>
   <preference name="PaginationBreakingMode" value="page"/>
   <preference name="PaginationMode" value="unpaginated"/>
-  <preference name="scheme" value="app" />
-  <preference name="hostname" value="localhost" />
+  <preference name="scheme" value="app2" />
+  <preference name="hostname" value="localhost2" />
   <feature name="LocalStorage">
     <param name="ios-package" value="CDVLocalStorage"/>
   </feature>
